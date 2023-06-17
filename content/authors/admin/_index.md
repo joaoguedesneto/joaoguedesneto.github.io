@@ -1,47 +1,54 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: João V. Guedes-Neto
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: João V.
+last_name: Guedes-Neto
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fundação Getúlio Vargas
+    url: https://www.fgv.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: Postdoctoral Researcher.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Political Psychology
+  - Survey Experiments
+  - Comparative Political Behavior
+  - Policy Implementation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Science
+      institution: University of Pittsburgh
+      year: 2022
+    - course: MA in Political Science
+      institution: University of Pittsburgh
+      year: 2019
+    - course: MA in Public Economics, Law and Politics
+      institution: Leuphana Universität Lüneburg
+      year: 2017
+    - course: MA in Public Management and Society
+      institution: Universidade Federal de Alfenas
+      year: 2015
+    - course: BA in Economics
+      institution: Universidade Federal de São João del-Rei
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +57,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:joaovictorguedesneto@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/VictorGuedes
+    label: Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=qEVgHQQAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/joaoguedesneto
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +78,15 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'joaovictorguedesneto@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am an incoming Postdoctoral Researcher at CEPESP/FGV. My main area of expertise is intergroup behavior, that is, I investigate how people interact in different settings, ranging from political polarization in elections around the world to inter-agency conflicts in public administration.
+
+Prior to that, I was an Assistant Professor of Public Administration at Kean University and a Researcher at the Instituto de Pesquisa Econômica Aplicada (Brazil's Ministry of Planning).
+
+You can contact me at joaovictorguedesneto [at] gmail [dot] com.
+{style="text-align: left;"}

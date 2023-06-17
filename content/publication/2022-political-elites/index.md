@@ -4,7 +4,7 @@ authors:
 - Asbel Bohigues
 - admin
 - Manoel L. Santos
-date: 2022-03-02T20:37:21-04:00
+date: 2022-03-01T20:37:21-04:00
 doi: "10.32992/erlacs.10833"
 
 # Schedule page publish date (NOT publication's date).

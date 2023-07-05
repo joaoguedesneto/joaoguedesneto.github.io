@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: João V. Guedes-Neto # Website name
-baseURL: 'https://joaoguedesneto.github.io/' # Website URL
+baseURL: 'https://joaoguedesneto.github.io/about/' # Website URL
 
 ############################
 ## LANGUAGE

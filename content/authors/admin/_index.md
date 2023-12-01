@@ -86,7 +86,7 @@ highlight_name: true
 
 I am a Postdoctoral Researcher at CEPESP/FGV. My main area of expertise is intergroup behavior, that is, I investigate how people interact in different settings, ranging from political polarization in elections around the world to inter-agency conflicts in public administration.
 
-Prior to that, I was an Assistant Professor of Public Administration at Kean University and a Researcher at the Instituto de Pesquisa Econômica Aplicada (Brazil's Ministry of Planning).
+Prior to that, I was an Assistant Professor of Public Administration at Kean University.
 
 You can contact me at joaovictorguedesneto [at] gmail [dot] com.
 {style="text-align: left;"}

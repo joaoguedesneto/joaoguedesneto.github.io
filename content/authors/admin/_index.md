@@ -29,6 +29,7 @@ interests:
   - Political Psychology
   - Survey Experiments
   - Comparative Political Behavior
+  - Politics of Bureaucracy
   - Policy Implementation
 
 # Education to show in About widget
@@ -84,7 +85,7 @@ email: 'joaovictorguedesneto@gmail.com'
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at CEPESP/FGV. My main area of expertise is intergroup behavior, that is, I investigate how people interact in different settings, ranging from political polarization in elections around the world to inter-agency conflicts in public administration.
+I am a Postdoctoral Researcher at the Center for Politics and Economics in the Public Sector in the Getúlio Vargas Foundation (FGV CEPESP). My main area of expertise is intergroup behavior, that is, I investigate how people interact in different settings, ranging from political polarization in elections around the world to inter-agency conflicts in public administration.
 
 Prior to that, I was an Assistant Professor of Public Administration at Kean University.
 

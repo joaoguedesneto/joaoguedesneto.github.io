@@ -84,13 +84,7 @@ email: 'joao.neto@fgv.br'
 highlight_name: true
 ---
 
-I am an Assistant Professor of Public Administration at FGV EBAPE. I hold a Ph.D. in Political Science (University of Pittsburgh) and master’s degrees in Political Science (Pitt), Public Economics, Law, and Politics (Leuphana Universität Lüneburg) and Public Management and Society (Universidade Federal de Alfenas).
-
-Prior to that, I was an Assistant Professor of Public Administration at Kean University and a Postdoctoral Researcher at FGV CEPESP.
-
-My research concentrates on the individual-level dynamics of bureaucratic politics. I rely on survey experiments, econometrics, and face-to-face interviews to understand coordination problems, the politics of policy implementation, and other aspects of intergroup relations.
-
-My work has appeared in outlets such as Comparative Political Studies, Representation, and Political Studies Review.
+I am an Assistant Professor of Public Administration at FGV EBAPE. My research concentrates on the individual-level dynamics of bureaucratic politics. I rely on survey experiments, econometrics, and face-to-face interviews to understand coordination problems, the politics of policy implementation, and other aspects of intergroup relations. My work has appeared in outlets such as Comparative Political Studies, Representation, and Political Studies Review.
 
 Currently, I am working on two book projects: “Bureaucratic Resistance to Illiberal Policies” (Cambridge University Press, co-authored with B. Guy Peters) and “Bureaucratic Polarization: How Workplace Identity and Intergroup Conflict Shape Policy Implementation” (Routledge).
 

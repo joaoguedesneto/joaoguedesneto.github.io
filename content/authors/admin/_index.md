@@ -14,7 +14,7 @@ last_name: Guedes-Neto
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Public Administration
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:

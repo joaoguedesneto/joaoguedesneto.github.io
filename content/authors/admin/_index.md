@@ -14,21 +14,20 @@ last_name: Guedes-Neto
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Assistant Professor of Public Administration
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Fundação Getúlio Vargas
-    url: https://www.fgv.br/
+  - name: FGV EBAPE
+    url: https://ebape.fgv.br/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Postdoctoral Researcher.
+#bio: Assistant Professor of Public Administration.
 
 # Interests to show in About widget
 interests:
   - Political Psychology
   - Survey Experiments
-  - Comparative Political Behavior
   - Politics of Bureaucracy
   - Policy Implementation
 
@@ -79,15 +78,22 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'joaovictorguedesneto@gmail.com'
+email: 'joao.neto@fgv.br'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at the Center for Politics and Economics in the Public Sector in the Getúlio Vargas Foundation (FGV CEPESP). My main area of expertise is intergroup behavior, that is, I investigate how people interact in different settings, ranging from political polarization in elections around the world to inter-agency conflicts in public administration.
+I am an Assistant Professor of Public Administration at FGV EBAPE. I hold a Ph.D. in Political Science (University of Pittsburgh) and master’s degrees in Political Science (Pitt), Public Economics, Law, and Politics (Leuphana Universität Lüneburg) and Public Management and Society (Universidade Federal de Alfenas).
 
-Prior to that, I was an Assistant Professor of Public Administration at Kean University.
+Prior to that, I was an Assistant Professor of Public Administration at Kean University and a Postdoctoral Researcher at FGV CEPESP.
 
-You can contact me at joaovictorguedesneto [at] gmail [dot] com.
+My research concentrates on the individual-level dynamics of bureaucratic politics. I rely on survey experiments, econometrics, and face-to-face interviews to understand coordination problems, the politics of policy implementation, and other aspects of intergroup relations.
+
+My work has appeared in outlets such as Comparative Political Studies, Representation, and Political Studies Review.
+
+Currently, I am working on two book projects: “Bureaucratic Resistance to Illiberal Policies” (Cambridge University Press, co-authored with B. Guy Peters) and “Bureaucratic Polarization: How Workplace Identity and Intergroup Conflict Shape Policy Implementation” (Routledge).
+
+You are welcome to contact me at joao.neto [at] fgv [dot] br.
+
 {style="text-align: left;"}

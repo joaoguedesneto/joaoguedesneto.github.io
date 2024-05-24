@@ -72,7 +72,7 @@ sections:
 #      subtitle:
 #      text: |-
 #      # Contact (add or remove contact options as necessary)
-#      email: joaovictorguedesneto@gmail.com
+#      email: joao.neto@fgv.br
 #      appointment_url: 'https://calendly.com'
 #      address:
 #        street: 450 Serra Mall

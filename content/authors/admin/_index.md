@@ -57,7 +57,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:joaovictorguedesneto@gmail.com'
+    link: 'mailto:joao.neto@fgv.br'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/VictorGuedes

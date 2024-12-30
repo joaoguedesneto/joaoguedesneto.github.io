@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Representation*, forthcoming"
+publication: "*Representation*, vol. 59, n. 4."
 
 abstract: The failure of political parties to adequately voice the preferences of their constituents leads voters to look for alternative heuristics when selecting their favourite candidates. Descriptive representation is one of them. Yet, most scholars focus only on the social characteristics of representatives. Is it also possible to talk about a workplace descriptive representation? In this paper, I rely on a longitudinal survey conducted with 2,527 legislators from 18 Latin American countries to assess whether the preferences of those representatives with a background in the public service differ from those held by other congressmen. The results show that former public employees adequately represent their professional group only when they self-place in the left or highly identify with the civil service. Yet, when they do not, their preference for the maximisation of the state’s budget and power is even lower than that of rightist legislators who have never worked for government.
 

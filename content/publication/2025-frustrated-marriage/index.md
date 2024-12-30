@@ -4,6 +4,7 @@
 title: "Frustrated marriage? The ideological distance of members of congress from their parties in Latin America"
 authors:
 - admin
+- Scott Morgenstern
 date: 2025-04-30T20:28:13-04:00
 doi: "10.1177/13540688241279521"
 

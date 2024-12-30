@@ -3,7 +3,9 @@
 
 title: "From Drug Lords to Police State: The Effects of Order Transition on Local Economies"
 authors:
+- Leonardo Gentil-Fernandes
 - admin
+- José Incio
 date: 2022-03-02T20:37:21-04:00
 doi: "/10.1177/00104140211060273"
 

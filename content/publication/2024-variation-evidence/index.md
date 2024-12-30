@@ -3,7 +3,11 @@
 
 title: "Variation in evidence use across policy sectors: Analyzing cultures of evidence in Brazil"
 authors:
+- Kidjie Saguin
 - admin
+- Pedro Palotti
+- Natália Koga
+- Flavio Carneiro
 date: 2024-12-30T20:28:13-04:00
 doi: "10.1093/polsoc/puae031"
 

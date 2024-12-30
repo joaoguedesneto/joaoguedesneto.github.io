@@ -8,7 +8,7 @@ date: 2024-12-30T20:28:13-04:00
 doi: "10.1093/polsoc/puae031"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-12-30T20:28:13-04:00
+publishDate: 2024-12-29T20:28:13-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

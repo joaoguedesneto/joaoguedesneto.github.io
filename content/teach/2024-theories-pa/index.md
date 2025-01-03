@@ -10,5 +10,5 @@ links:
   - name: Syllabus
     url: syllabus-theories-pa-2024.pdf
   - name: Evaluation
-    url: evaluation-theories-pa.pdf
+    url: evaluation-theories-pa-2024.pdf
 ---

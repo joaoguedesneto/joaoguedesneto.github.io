@@ -21,7 +21,7 @@ marketing:
     description: 'Personal website of João V. Guedes-Neto, a Ph.D. in Political Science.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google: ''
     baidu_tongji: ''
   verification:
     google: ''

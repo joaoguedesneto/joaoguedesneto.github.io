@@ -84,9 +84,13 @@ email: 'joao.neto@fgv.br'
 highlight_name: true
 ---
 
-I am an Assistant Professor of Public Administration at FGV EBAPE. My research concentrates on the individual-level dynamics of bureaucratic politics. I rely on survey experiments, econometrics, and face-to-face interviews to understand coordination problems, the politics of policy implementation, and other aspects of intergroup relations. My work has appeared in outlets such as Comparative Political Studies, Representation, and Political Studies Review..
+I am an Assistant Professor of Public Administration at [FGV EBAPE](https://ebape.fgv.br/en), where I also co-coordinate the Professional Graduate Program in Public Administration (MPA/DPA). 
 
-Currently, I am working on two book projects: “Bureaucratic Resistance to Illiberal Policies” (Cambridge University Press, co-authored with B. Guy Peters) and “Bureaucratic Polarization: How Workplace Identity and Intergroup Conflict Shape Policy Implementation” (Routledge).
+My research concentrates on the individual-level dynamics of bureaucratic politics. I rely on survey experiments, econometrics, and face-to-face interviews to understand coordination problems, the politics of policy implementation, and other aspects of intergroup relations. My work has appeared in outlets such as Public Administration Review, Comparative Political Studies, Electoral Studies, and Party Politics Representation.
+
+I am currently working on a new book project under contract with Routledge: “Bureaucratic Polarization: How Workplace Identity and Intergroup Conflict Shape Policy Implementation”.
+
+Recently, I co-authored “[Bureaucratic Resistance in Times of Democratic Backsliding](https://www.cambridge.org/core/elements/abs/bureaucratic-resistance-in-times-of-democratic-backsliding/9C391F4058387D8BBD7B4F2D20B1E936)” (Cambridge University Press, 2025) and co-edited "[Inside Brazilian Bureaucracy: Politics and Policy Implementation in Brazilian States](https://www.taylorfrancis.com/books/edit/10.4324/9781003568483/inside-brazilian-bureaucracy-barry-ames-jo%C3%A3o-guedes-neto)" (Routledge, 2025).
 
 You are welcome to contact me at joao.neto [at] fgv [dot] br.
 

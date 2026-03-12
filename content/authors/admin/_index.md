@@ -86,7 +86,9 @@ highlight_name: true
 
 I am an Assistant Professor of Public Administration at [FGV EBAPE](https://ebape.fgv.br/en), where I also co-coordinate the Professional Graduate Program in Public Administration (MPA/DPA). 
 
-My research concentrates on the individual-level dynamics of bureaucratic politics. I rely on survey experiments, econometrics, and face-to-face interviews to understand coordination problems, the politics of policy implementation, and other aspects of intergroup relations. My work has appeared in outlets such as Public Administration Review, International Public Management Journal, International Review of Administrative Sciences, Comparative Political Studies, Policy Studies, Electoral Studies, and Party Politics.
+My research concentrates on the individual-level dynamics of bureaucratic politics. I rely on survey experiments, econometrics, and face-to-face interviews to understand coordination problems, the politics of policy implementation, and other aspects of intergroup relations. 
+
+My work has appeared in outlets such as Public Administration Review, International Public Management Journal, International Review of Administrative Sciences, Comparative Political Studies, Policy Studies, Electoral Studies, and Party Politics.
 
 I am currently working on a new book project under contract with Routledge: “Bureaucratic Polarization: How Workplace Identity and Intergroup Conflict Shape Policy Implementation”.
 

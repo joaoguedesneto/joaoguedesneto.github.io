@@ -18,7 +18,7 @@ publishDate: 2024-12-29T20:28:13-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Party Politics*, forthcoming"
+publication: "*Party Politics*, Volume 31, Issue 5"
 
 abstract: "Are legislators ideologically close to their co-partisans? And, when not, what policies drive the lack of party unity? To address these questions, we propose two measures of intra-party ideological cohesion: dissonance and frustration. Based on a survey of legislators across 18 Latin American countries, we show that half of the region’s representatives self-identify as substantially far from the mean of their parties (dissonance) and almost 40% perceive large differences (frustration). Relying on a series of statistical tests, we find that these patterns are distinct for left-wing and right-wing legislators. The right is more dissonant than frustrated, and they are also more dissonant than the left. In terms of policy, we show that moral issues drive dissonance and frustration on both sides of the ideological spectrum, but disagreements on economic topics are more correlated with ideological distance for the left than the right. In presenting new measurements of intra-party disagreements, our paper proposes new pathways for the study of party cohesion."
 

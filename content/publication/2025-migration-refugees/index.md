@@ -18,7 +18,7 @@ publishDate: 2024-12-29T20:28:13-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Electoral Studies*, Volume 96"
+publication: "*Electoral Studies*, vol. 96"
 
 abstract: "Using computational text analysis of US representatives’ tweets during the 2020 election campaign, we examine how geographic representation–specifically, the demographic characteristics of districts–moderate rhetoric about immigrants and refugees. While Republicans are overall more negative toward immigrants than Democrats (but not toward refugees), when it comes to salience, Democrats show strategic communication tailored to the ethnic composition of their districts. In districts that are predominantly non-Hispanic, whiter, and more rural, Democratic representatives reduce the salience of immigrants and refugees in their messages, while increasing it as the share of the Hispanic population rises. This strategic use of salience is not observed in Republican legislators’ tweets. We also find that while Democrats use the terms “immigrant” and “refugee” interchangeably when discussing migrants from the southern border, Republicans’ greater positivity toward refugees responds, in part, to using the term for potential Hong Kong refugees, likely deemed as more deserving of protection. These findings highlight elites’ strategic messaging on immigration and how legislators navigate intraparty politics to satisfy the preferences of their party and constituents."
 

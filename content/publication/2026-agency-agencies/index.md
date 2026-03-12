@@ -10,7 +10,7 @@ authors:
 - Pedro Masson
 - Paula Miranda
 - admin
-date: 2025-02-01T20:28:13-04:00
+date: 2026-01-01T20:28:13-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

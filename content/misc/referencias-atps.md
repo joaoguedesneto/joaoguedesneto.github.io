@@ -17,6 +17,10 @@ Lima, Iana, et al. Ethos burocrático-democrático: conceituação, dimensões e
 
 Souza, Claudia. A influência da remuneração variável na produtividade de analistas de processos de uma autarquia federal. Dissertação de Mestrado, FGV EBAPE, 2024. Link: https://repositorio.fgv.br/server/api/core/bitstreams/08cfbc1d-30c7-4a82-9877-4612cff99042/content
 
+### Burocracia de Nível de Rua
+
+Bovens, Mark; Zouridis, Stavros. From street-level to system-level bureaucracies: How information and communication technology is transforming administrative discretion and constitutional control. Public Administration Review, 62(2), 2002. Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/0033-3352.00168
+
 ### Burocracia Representativa
 
 Krislov, Samuel. Representative Bureaucracy. 2012 (1974). Link: https://books.google.com.br/books?id=j3iuFZ1kkbQC

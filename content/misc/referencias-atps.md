@@ -11,8 +11,6 @@ build:
   list: never
 ---
 
-Esta página reúne referências adicionais compartilhadas com a turma de ATPS do CNU.
-
 ### Ethos Burocrático e Motivação no Serviço Público
 
 Lima, Iana, et al. Ethos burocrático-democrático: conceituação, dimensões e estratégias de mensuração no serviço público brasileiro. Caderno ENAP, n. 142. Link: https://repositorio.enap.gov.br/handle/1/8783

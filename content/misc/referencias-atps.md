@@ -11,9 +11,15 @@ show_breadcrumb: false
 
 Esta página reúne referências adicionais compartilhadas com a turma de ATPS do CNU.
 
-### Ethos Burocrático
+### Ethos Burocrático e Motivação no Serviço Público
 
 Lima, Iana, et al. Ethos burocrático-democrático: conceituação, dimensões e estratégias de mensuração no serviço público brasileiro. Caderno ENAP, n. 142. Link: https://repositorio.enap.gov.br/handle/1/8783
+
+Souza, Claudia. A influência da remuneração variável na produtividade de analistas de processos de uma autarquia federal. Dissertação de Mestrado, FGV EBAPE, 2024. Link: https://repositorio.fgv.br/server/api/core/bitstreams/08cfbc1d-30c7-4a82-9877-4612cff99042/content
+
+### Burocracia Representativa
+
+Krislov, Samuel. Representative Bureaucracy. 2012 (1974). Link: https://books.google.com.br/books?id=j3iuFZ1kkbQC
 
 ### Resistência Burocrática
 

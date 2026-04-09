@@ -9,6 +9,7 @@ show_reading_time: false
 show_breadcrumb: false
 build:
   list: never
+layout: misc
 ---
 
 - [Breve guia para escrever artigos científicos no campo de administração pública](/escrevendo-artigos/)

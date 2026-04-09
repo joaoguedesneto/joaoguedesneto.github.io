@@ -7,6 +7,8 @@ lastmod: null
 show_date: false
 show_reading_time: false
 show_breadcrumb: false
+build:
+  list: never
 ---
 
 Esta página reúne referências adicionais compartilhadas com a turma de ATPS do CNU.

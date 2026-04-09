@@ -1,7 +1,12 @@
 ---
 title: Referências adicionais para a turma de ATPS do CNU
 url: /misc/referencias-atps/
-summary: Referências compartilhadas com a turma de ATPS do CNU.
+summary: ""
+date: null
+lastmod: null
+show_date: false
+show_reading_time: false
+show_breadcrumb: false
 ---
 
 Esta página reúne referências adicionais compartilhadas com a turma de ATPS do CNU.

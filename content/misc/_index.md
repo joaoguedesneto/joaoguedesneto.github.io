@@ -7,6 +7,8 @@ lastmod: null
 show_date: false
 show_reading_time: false
 show_breadcrumb: false
+build:
+  list: never
 ---
 
 - [Breve guia para escrever artigos científicos no campo de administração pública](/escrevendo-artigos/)

@@ -21,9 +21,9 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 40
-  - name: Blog
-    url: http://www.joaovictorguedes.com.br/blog
-    weight: 50
+#  - name: Blog
+#    url: http://www.joaovictorguedes.com.br/blog
+#    weight: 50
   - name: Misc
     url: /misc/
     weight: 60

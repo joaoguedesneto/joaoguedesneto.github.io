@@ -5,8 +5,6 @@ url: /misc/
 summary: Miscellaneous pages and resources.
 ---
 
-## Miscellaneous Pages
-
 Here you can find a few additional pages and resources.
 Em português: Aqui você pode encontrar páginas e recursos adicionais.
 

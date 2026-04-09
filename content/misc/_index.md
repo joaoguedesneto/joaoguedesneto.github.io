@@ -1,8 +1,7 @@
 ---
 title: Misc
-type: landing
 url: /misc/
-summary: Miscellaneous pages and resources.
+summary: ""
 ---
 
 Here you can find a few additional pages and resources.

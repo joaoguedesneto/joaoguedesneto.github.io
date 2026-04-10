@@ -23,9 +23,9 @@ Bovens, Mark; Zouridis, Stavros. From street-level to system-level bureaucracies
 
 Marienfeldt, Justine. "Does digital government hollow out the essence of street‐level bureaucracy? A systematic literature review of how digital tools' foster curtailment, enablement and continuation of street‐level decision‐making." Social Policy & Administration 58.5 (2024): 831-855. Link: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.12991
 
-Filgueiras, F. (2026). Artificial Intelligence and Public Policy. Cambridge: Cambridge University Press.https://www.cambridge.org/core/books/artificial-intelligence-and-public-policy/B71FDB14B9DC572152DA23E7CCCC0AF7
+Filgueiras, F. (2026). Artificial Intelligence and Public Policy. Cambridge: Cambridge University Press. Link: https://www.cambridge.org/core/books/artificial-intelligence-and-public-policy/B71FDB14B9DC572152DA23E7CCCC0AF7
 
-Mendonça, R. F., Almeida, V., Filgueiras, F., Almeida, V. A. F. (2024). Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Reino Unido: Oxford University Press. https://www.google.com.br/books/edition/_/Dj3kEAAAQBAJ?hl=pt-BR&gbpv=1
+Mendonça, R. F., Almeida, V., Filgueiras, F., Almeida, V. A. F. (2024). Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Reino Unido: Oxford University Press. Link: https://www.google.com.br/books/edition/_/Dj3kEAAAQBAJ?hl=pt-BR&gbpv=1
 
 Mendonça, R. F., Filgueiras, F., Almeida, V. (2025). Política dos algoritmos: Instituições e as transformações da vida social. Brasil: Ubu Editora.
 
@@ -35,7 +35,7 @@ Krislov, Samuel. Representative Bureaucracy. 2012 (1974). Link: https://books.go
 
 ### Accountability
 
-Odilla, F. (2020). Oversee and Punish: Understanding the Fight Against Corruption Involving Government Workers in Brazil. Politics and Governance, 8(2), 140-152.https://doi.org/10.17645/pag.v8i2.2716
+Odilla, F. (2020). Oversee and Punish: Understanding the Fight Against Corruption Involving Government Workers in Brazil. Politics and Governance, 8(2), 140-152. Link: https://doi.org/10.17645/pag.v8i2.2716
 
 ### Resistência Burocrática
 

@@ -45,6 +45,8 @@ Guedes-Neto, Joao. Bureaucratic Polarization. Tese de Doutorado - University of 
 
 Ames, Barry; Guedes-Neto, Joao. Inside Brazilian Bureaucracy: Politics and Policy Implementation in Brazilian States. Routledge, 2025. Link: https://books.google.com.br/books?hl=pt-BR&lr=&id=3wdVEQAAQBAJ&oi=fnd&pg=PP1&ots=Md0J4bkK3F
 
+Herd, Pamela; Moynihan, Donald. Administrative burden: Policymaking by other means. Russell Sage Foundation, 2019. Link: https://books.google.com.br/books?hl=pt-BR&lr=&id=HER0DwAAQBAJ
+
 ### Avaliação de Políticas Públicas
 
 Gentil-Fernandes, Leonardo, et al. From drug lords to police state: The effects of order transition on local economies." Comparative Political Studies 55.10 (2022): 1765-1801. Link: https://journals.sagepub.com/doi/abs/10.1177/00104140211060273

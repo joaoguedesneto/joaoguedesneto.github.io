@@ -21,6 +21,8 @@ Souza, Claudia. A influência da remuneração variável na produtividade de ana
 
 Bovens, Mark; Zouridis, Stavros. From street-level to system-level bureaucracies: How information and communication technology is transforming administrative discretion and constitutional control. Public Administration Review, 62(2), 2002. Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/0033-3352.00168
 
+Marienfeldt, Justine. "Does digital government hollow out the essence of street‐level bureaucracy? A systematic literature review of how digital tools' foster curtailment, enablement and continuation of street‐level decision‐making." Social Policy & Administration 58.5 (2024): 831-855. Link: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.12991
+
 ### Burocracia Representativa
 
 Krislov, Samuel. Representative Bureaucracy. 2012 (1974). Link: https://books.google.com.br/books?id=j3iuFZ1kkbQC

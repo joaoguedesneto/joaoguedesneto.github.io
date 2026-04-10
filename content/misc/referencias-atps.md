@@ -39,6 +39,10 @@ Fragoso Lobo, José Renato, et al. Bureaucrats’ willingness to resist democrat
 
 Silveira, Mariana, et al. The Organizational Dynamics of Bureaucratic Resistance to Undemocratic Pressures: A Conjoint Experiment in Brazil. Public Administration Review (2026). Link: https://onlinelibrary.wiley.com/doi/pdf/10.1111/puar.70097
 
+Ding, Iza. Performative governance. World politics 72.4 (2020): 525-556. Link: https://www.cambridge.org/core/journals/world-politics/article/performative-governance/AAC558378BEA651DB7E2480ECFFB4E10
+
+Ding, Iza. The Performative State: Public Scrutiny and Environmental Governance in China. The Performative State. Cornell University Press. Link: https://www.cornellpress.cornell.edu/book/9781501760372/the-performative-state/
+
 ### Implementação de Políticas Públicas
 
 Guedes-Neto, Joao. Bureaucratic Polarization. Tese de Doutorado - University of Pittsburgh, 2022. Link: https://www.academia.edu/82272095/Bureaucratic_Polarization
